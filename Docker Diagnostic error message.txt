@@ -1,0 +1,3 @@
+C:\Program Files\Docker\Docker> ./DockerCli.exe -SwitchDaemon
+
+[FAIL] DD0032: do Docker networks overlap with host IPs? error during connect: In the default daemon configuration on Windows, the docker client must be run with elevated privileges to connect.: Get "http://%2F%2F.%2Fpipe%2Fdocker_engine_linux/v1.24/networks": open //./pipe/docker_engine_linux: The system cannot find the file specified.
